@@ -1,0 +1,15 @@
+body{
+    background: pink;
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+.Object ,#findingImage,#percantImage{
+    color: yellow;
+}
+#camera{
+  border: 2px dashed black;
+ width: 350px;
+ height:350px;
+}
